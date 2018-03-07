@@ -2,7 +2,6 @@
 *.iml
 .idea/
 .gradle/
-gradle/
 # Package Files #
 out/
 target/
