@@ -5,13 +5,15 @@ Test task for EPAM interview
 Task description is [here](https://github.com/davidluckystar/epam-potato-test-task/blob/master/files/lgi-java-code-assignment.pdf)
 
 ## Running the app
+**Prerequisites**: java8 runtime, `java` in `PATH` or correct `JAVA_HOME`
+
 Clone or download this repo
 
 Open the console, go to repo directory and run `./gradlew bootRun` or `gradlew.bat bootRun`
 
 <img src="https://github.com/davidluckystar/epam-potato-test-task/blob/master/files/boot-run.png" width="80%" style="display: inline-block">
 
-You should see smth like this
+Dependencies will be downloaded but eventually you should see smth like this
 
 <img src="https://github.com/davidluckystar/epam-potato-test-task/blob/master/files/app-started.png" width="80%" style="display: inline-block">
 
