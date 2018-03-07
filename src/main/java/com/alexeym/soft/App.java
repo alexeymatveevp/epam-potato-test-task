@@ -20,7 +20,7 @@ public class App  {
     public static void main(String[] args) {
         ConfigurableApplicationContext ctx = SpringApplication.run(App.class, args);
         PotatoStorage storage = ctx.getBean(PotatoStorage.class);
-        storage.add(new PotatoBag("0-bag", 42, "Owel", Instant.now(), 99));
+        storage.add(new PotatoBag("0-bag", 42, "Owel", Instant.now(), 15));
     }
 
 }
