@@ -49,3 +49,13 @@ Set valid data: 1 < potatoes < 100, pack date < future, 1 < price < 50, one of k
 click "Try it out" - chech that ID of the bag is in the response
 
 Try creating bag with incorrect data - expect 400 with error message.
+
+## About the app
+This simple app uses:
+* Spring Boot as web framework
+* java memory for storing data
+* swagger for documenting API
+* spring WebTestClient for integration testing
+* logback for logging
+* gradle as build system
+* no monitoring
