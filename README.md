@@ -5,9 +5,9 @@ Test task for EPAM interview
 Task description is [here](https://github.com/davidluckystar/epam-potato-test-task/blob/master/files/lgi-java-code-assignment.pdf)
 
 ## Running the app
-API is written using Spring Boot, gradlew
+Clone or download this repo
 
-To start the app simply open the console and run `./gradlew bootRun` or `gradlew.bat bootRun`
+Open the console, go to repo directory and run `./gradlew bootRun` or `gradlew.bat bootRun`
 
 <img src="https://github.com/davidluckystar/epam-potato-test-task/blob/master/files/boot-run.png" width="80%" style="display: inline-block">
 
