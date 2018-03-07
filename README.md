@@ -2,6 +2,8 @@ Potato bags API
 ========
 Test task for EPAM interview
 
+<img src="https://github.com/davidluckystar/epam-potato-test-task/blob/master/files/logo.png" width="10%" style="display: inline-block">
+
 Task description is [here](https://github.com/davidluckystar/epam-potato-test-task/blob/master/files/lgi-java-code-assignment.pdf)
 
 ## Running the app
